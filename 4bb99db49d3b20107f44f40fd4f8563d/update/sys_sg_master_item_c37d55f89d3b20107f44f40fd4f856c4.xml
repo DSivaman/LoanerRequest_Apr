@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_cdltd_loaner_req_loaner_request</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Loaner Request Form Screen">0f7d55f89d3b20107f44f40fd4f856c0</embedded_screen>
+        <item_view/>
+        <name>Loaner Request master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 04:00:06</sys_created_on>
+        <sys_id>c37d55f89d3b20107f44f40fd4f856c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request master_item</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4bb99db49d3b20107f44f40fd4f8563d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4bb99db49d3b20107f44f40fd4f8563d</sys_scope>
+        <sys_update_name>sys_sg_master_item_c37d55f89d3b20107f44f40fd4f856c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 04:00:06</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Loaner Request List Screen View Config">0b7d55f89d3b20107f44f40fd4f85689</view_config>
+    </sys_sg_master_item>
+</record_update>
